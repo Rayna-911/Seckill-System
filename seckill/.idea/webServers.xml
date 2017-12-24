@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="681a2766-be23-4610-a31c-9aa7b8aded98" name="seckill-web" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$/../apache-tomcat-9.0.2" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
