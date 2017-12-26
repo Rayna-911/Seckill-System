@@ -23,10 +23,10 @@ Add artifact under deployment tab
 Click green run button 
 ```
 
-Optimization: 
+4. Optimization: 
 Start -> transaction -> update -> insert -> commit/rollback
 
-Redis install: 
+5. Redis install: 
 ```
 Download from: https://redis.io/download
 Unzip
