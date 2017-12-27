@@ -34,3 +34,10 @@ In the direction, run “make” and “make install”
 Start redis, run “redis-server”
 Open new terminal, start client, run “redis-cli”, defalut port:6379
 ```
+
+<img width="718" alt="screen shot 2017-12-23 at 17 20 01" src="https://user-images.githubusercontent.com/10237409/34370056-d78b913a-ea75-11e7-8505-eb1c1f71e1bf.png">
+<img width="600" alt="screen shot 2017-12-23 at 17 20 55" src="https://user-images.githubusercontent.com/10237409/34370060-da0b766e-ea75-11e7-984a-76588c9eb1e8.png">
+<img width="739" alt="screen shot 2017-12-23 at 17 22 35" src="https://user-images.githubusercontent.com/10237409/34370061-dbc781dc-ea75-11e7-9d8d-f091cf9ba805.png">
+
+大型系统部署架构
+<img width="780" alt="screen shot 2017-12-26 at 13 20 00" src="https://user-images.githubusercontent.com/10237409/34370066-df61c474-ea75-11e7-97f2-85a6e4da2787.png">
